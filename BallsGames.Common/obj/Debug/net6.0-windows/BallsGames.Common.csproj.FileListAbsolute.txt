@@ -1,0 +1,12 @@
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\bin\Debug\net6.0-windows\BallsGames.Common.deps.json
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\bin\Debug\net6.0-windows\BallsGames.Common.dll
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\bin\Debug\net6.0-windows\BallsGames.Common.pdb
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.csproj.AssemblyReference.cache
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.AssemblyInfoInputs.cache
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.AssemblyInfo.cs
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.csproj.CoreCompileInputs.cache
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.dll
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\refint\BallsGames.Common.dll
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\BallsGames.Common.pdb
+C:\С#\GIT_C#\BallGamesWinFormsApp\BallsGames.Common\obj\Debug\net6.0-windows\ref\BallsGames.Common.dll
